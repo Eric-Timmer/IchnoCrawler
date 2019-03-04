@@ -1,0 +1,8 @@
+G1	G2	G3	G4	G5	G6	G7
+Shoreface	Offshore	Terrestrial	Turbidite	Delta	Estuary	Lagoon
+Barrier Island		Continental				
+Beach		Fluvial				
+Foreshore		Alluvial				
+Backshore		Freshwater				
+		Aeolian				
+		Lacustrine				
