@@ -1,2 +1,2 @@
 # IchnoCrawler
-Crawler for Trace fossil literature for trace fossil associations
+Crawl trace fossil literature for trace fossil associations through time.
